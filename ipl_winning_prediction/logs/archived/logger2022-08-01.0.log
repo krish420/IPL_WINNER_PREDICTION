@@ -1,0 +1,6 @@
+2022-08-01 11:43:01 [main] INFO  c.m.i.repository.UserRepositoryTest - Starting UserRepositoryTest using Java 17.0.3 on DESKTOP-KAE53P5 with PID 23844 (started by hatik in E:\__PROJECTS__\Project_IPL\ipl_winning_prediction)
+2022-08-01 11:43:01 [main] INFO  c.m.i.repository.UserRepositoryTest - No active profile set, falling back to 1 default profile: "default"
+2022-08-01 11:43:11 [main] INFO  c.m.i.repository.UserRepositoryTest - Started UserRepositoryTest in 12.188 seconds (JVM running for 16.557)
+2022-08-01 11:43:38 [main] INFO  c.m.i.repository.UserRepositoryTest - Starting UserRepositoryTest using Java 17.0.3 on DESKTOP-KAE53P5 with PID 20636 (started by hatik in E:\__PROJECTS__\Project_IPL\ipl_winning_prediction)
+2022-08-01 11:43:38 [main] INFO  c.m.i.repository.UserRepositoryTest - No active profile set, falling back to 1 default profile: "default"
+2022-08-01 11:43:50 [main] INFO  c.m.i.repository.UserRepositoryTest - Started UserRepositoryTest in 15.621 seconds (JVM running for 20.126)

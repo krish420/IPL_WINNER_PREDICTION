@@ -1,0 +1,14 @@
+.__full {
+    background-image: url("https://wallpaperaccess.com/full/4762296.jpg") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+* {
+    -ms-overflow-style: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

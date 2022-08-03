@@ -1,0 +1,5 @@
+2022-08-03 11:59:43 [main] INFO  c.m.i.controller.UserControllerTest - Starting UserControllerTest using Java 17.0.3 on DESKTOP-KAE53P5 with PID 316 (started by hatik in E:\__PROJECTS__\Project_IPL\ipl_winning_prediction)
+2022-08-03 11:59:43 [main] INFO  c.m.i.controller.UserControllerTest - No active profile set, falling back to 1 default profile: "default"
+2022-08-03 12:20:09 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - Starting IplWinningPredictionApplication using Java 17.0.3 on DESKTOP-KAE53P5 with PID 10896 (E:\__PROJECTS__\Project_IPL\ipl_winning_prediction\target\classes started by hatik in E:\__PROJECTS__\Project_IPL\ipl_winning_prediction)
+2022-08-03 12:20:09 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - No active profile set, falling back to 1 default profile: "default"
+2022-08-03 12:20:19 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - Started IplWinningPredictionApplication in 11.364 seconds (JVM running for 13.019)

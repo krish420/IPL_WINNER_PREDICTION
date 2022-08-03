@@ -1,0 +1,10 @@
+.sign-up {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+    .sign-up {
+        -webkit-backdrop-filter: blur(10px);
+        backdrop-filter: blur(10px);
+    }
+}

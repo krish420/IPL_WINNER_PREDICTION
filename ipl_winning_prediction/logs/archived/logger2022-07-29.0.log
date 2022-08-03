@@ -1,0 +1,10 @@
+2022-07-29 13:24:46 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - Starting IplWinningPredictionApplication using Java 17.0.3 on DESKTOP-KAE53P5 with PID 23440 (E:\__PROJECTS__\Project_IPL\ipl_winning_prediction\target\classes started by hatik in E:\__PROJECTS__\Project_IPL\ipl_winning_prediction)
+2022-07-29 13:24:46 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-29 13:24:55 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - Started IplWinningPredictionApplication in 9.002 seconds (JVM running for 10.238)
+2022-07-29 13:25:01 [http-nio-9090-exec-2] INFO  c.m.i.controller.AuthController - userv2@gmail.com try to authenticate
+2022-07-29 13:48:15 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - Starting IplWinningPredictionApplication using Java 17.0.3 on DESKTOP-KAE53P5 with PID 19340 (E:\__PROJECTS__\Project_IPL\ipl_winning_prediction\target\classes started by hatik in E:\__PROJECTS__\Project_IPL\ipl_winning_prediction)
+2022-07-29 13:48:15 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-29 13:48:24 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - Started IplWinningPredictionApplication in 9.92 seconds (JVM running for 11.329)
+2022-07-29 13:59:10 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - Starting IplWinningPredictionApplication using Java 17.0.3 on DESKTOP-KAE53P5 with PID 12052 (E:\__PROJECTS__\Project_IPL\ipl_winning_prediction\target\classes started by hatik in E:\__PROJECTS__\Project_IPL\ipl_winning_prediction)
+2022-07-29 13:59:10 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-29 13:59:22 [restartedMain] INFO  c.m.i.IplWinningPredictionApplication - Started IplWinningPredictionApplication in 12.804 seconds (JVM running for 14.028)
